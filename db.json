@@ -2,28 +2,28 @@
 "posts":[
     {
       "id": 1,
-      "cert_image": "hello",
-      "date":""
+      "cert_image": "http://madret.com/image.jpg",
+      "date":"1-01-2020"
     },
      {
       "id": 2,
-      "cert_image": "hello",
-      "date":""
+      "cert_image": "http://madret.com/image.jpg",
+      "date":"1-01-2020"
     },
      {
       "id": 3,
-      "cert_image": "hello",
-      "date":""
+      "cert_image": "http://madret.com/image.jpg",
+      "date":"1-01-2020"
     },
      {
       "id": 4,
-      "cert_image": "hello",
-      "date":""
+      "cert_image": "http://madret.com/image.jpg",
+      "date":"1-01-2020"
     },
      {
        "id": 5,
-      "cert_image": "hello",
-      "date":""
+      "cert_image": "http://madret.com/image.jpg",
+      "date":"1-01-2020"
     }
 ]
 }
