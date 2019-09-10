@@ -3,27 +3,32 @@
     {
       "id": 1,
       "certifacteImage": "http://madret.com/image.jpg",
-      "certifacteDate":"1-01-2020"
+      "certifacteDate":"1-01-2020",
+       "certifacteName":"CCNA Certificates" 
     },
      {
       "id": 2,
       "certifacteImage": "http://madret.com/image.jpg",
-      "certifacteDate":"1-01-2020"
+      "certifacteDate":"1-01-2020",
+      "certifacteName":"CCNI Certificates"   
     },
      {
       "id": 3,
       "certifacteImage": "http://madret.com/image.jpg",
-      "certifacteDate":"1-01-2020"
+      "certifacteDate":"1-01-2020",
+       "certifacteName":"PMP Certificates" 
     },
      {
       "id": 4,
       "certifacteImage": "http://madret.com/image.jpg",
-      "certifacteDate":"1-01-2020"
+      "certifacteDate":"1-01-2020",
+       "certifacteName":"PMP Certificates"   
     },
      {
        "id": 5,
      "certifacteImage": "http://madret.com/image.jpg",
-      "certifacteDate":"1-01-2020"
+      "certifacteDate":"1-01-2020",
+       "certifacteName":"PMP Certificates"   
     }
 ]
 }
