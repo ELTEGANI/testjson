@@ -1,34 +1,52 @@
-{
-"posts":[
+[
+  {
+    "id": "1",
+    "name": "Hard Rock Cafe",
+    "category": "rock"
+  },
     {
-      "id": 1,
-      "certifacteImage": "http://madret.com/image.jpg",
-      "certifacteDate":"1-01-2020",
-       "certifacteName":"CCNA Certificates" 
-    },
-     {
-      "id": 2,
-      "certifacteImage": "http://madret.com/image.jpg",
-      "certifacteDate":"1-01-2020",
-      "certifacteName":"CCNI Certificates"   
-    },
-     {
-      "id": 3,
-      "certifacteImage": "http://madret.com/image.jpg",
-      "certifacteDate":"1-01-2020",
-       "certifacteName":"PMP Certificates" 
-    },
-     {
-      "id": 4,
-      "certifacteImage": "http://madret.com/image.jpg",
-      "certifacteDate":"1-01-2020",
-       "certifacteName":"PMP Certificates"   
-    },
-     {
-       "id": 5,
-     "certifacteImage": "http://madret.com/image.jpg",
-      "certifacteDate":"1-01-2020",
-       "certifacteName":"PMP Certificates"   
-    }
-]
-}
+    "id": "2",
+    "name": "Chilled House",
+    "category": "house"
+  },
+    {
+    "id": "3",
+    "name": "US TOP 40 HITS",
+    "category": "mixed"
+  },
+    {
+    "id": "4",
+    "name": "90's Rock",
+    "category": "rock"
+  },
+    {
+    "id": "5",
+    "name": "Purple Jazz",
+    "category": "jazz"
+  },
+  {
+    "id": "6",
+    "name": "90's flashback",
+    "category": "pop"
+  },
+  {
+    "id": "7",
+    "name": "Machine Funk",
+    "category": "electro"
+  },
+  {
+    "id": "8",
+    "name": "Let's Groove",
+    "category": "mixed"
+  },
+  {
+    "id": "9",
+    "name": "Feel The Beat",
+    "category": "electro"
+  },
+  {
+    "id": "10",
+    "name": "Best Songs 2020",
+    "category": "mixed"
+  }
+ ]
