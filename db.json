@@ -1,5 +1,6 @@
-[
-  {
+{
+  "playlists": [
+    {
     "id": "1",
     "name": "Hard Rock Cafe",
     "category": "rock"
@@ -49,4 +50,5 @@
     "name": "Best Songs 2020",
     "category": "mixed"
   }
- ]
+  ]
+}
