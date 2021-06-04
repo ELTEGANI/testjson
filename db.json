@@ -24,31 +24,6 @@
     "id": "5",
     "name": "Purple Jazz",
     "category": "jazz"
-  },
-  {
-    "id": "6",
-    "name": "90's flashback",
-    "category": "pop"
-  },
-  {
-    "id": "7",
-    "name": "Machine Funk",
-    "category": "electro"
-  },
-  {
-    "id": "8",
-    "name": "Let's Groove",
-    "category": "mixed"
-  },
-  {
-    "id": "9",
-    "name": "Feel The Beat",
-    "category": "electro"
-  },
-  {
-    "id": "10",
-    "name": "Best Songs 2020",
-    "category": "mixed"
   }
   ]
 }
